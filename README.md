@@ -4,7 +4,7 @@ Licenciatura em Engenharia Informática / 3º Ano
 
 Interação Pessoa Computador
 
--> Uma aplicação desenvolvida com o propósito de ajudar cianças (4 a 6 anos) a ter uma primeira interação com os números.
+-> Uma aplicação desenvolvida com o propósito de ajudar crianças (4 a 6 anos) a ter uma primeira interação com os números.
 
 -> A aplicação 'FunTable4All', está implementada em Python, com recurso ao Kivy.
 
