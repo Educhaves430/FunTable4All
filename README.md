@@ -6,7 +6,7 @@ Interação Pessoa Computador
 
 -> Uma aplicação desenvolvida com o propósito de ajudar cianças (4 a 6 anos) a ter uma primeira interação com os números.
 
--> A aplicação 'FunTable4All', está implementad em Python, com recurso ao Kivy.
+-> A aplicação 'FunTable4All', está implementada em Python, com recurso ao Kivy.
 
 -> Integração de reacTIVision.
 
